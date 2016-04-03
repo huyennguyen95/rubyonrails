@@ -15,7 +15,8 @@
  */
 body { padding-top: 100px;
     background-image: url(http://www.dvd-ppt-slideshow.com/images/ppt-background/background-20.jpg);
-    background-size: 100% auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
     color:#000;
 }
 .navbar-header:hover{
